@@ -1,2 +1,3 @@
 "Aquest es el meu text"
 Un altre canvi document
+I am git estic modificant el document a una nova branca.
